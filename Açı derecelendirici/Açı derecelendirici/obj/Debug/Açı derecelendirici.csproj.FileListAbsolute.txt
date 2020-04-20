@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\bin\Debug\Açı derecelendirici.exe.config
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\bin\Debug\Açı derecelendirici.exe
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\bin\Debug\Açı derecelendirici.pdb
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı_derecelendirici.Form1.resources
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı_derecelendirici.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.exe
+C:\Users\Eldems\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\bin\Debug\Açı derecelendirici.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\bin\Debug\Açı derecelendirici.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\bin\Debug\Açı derecelendirici.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı_derecelendirici.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı_derecelendirici.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Açı derecelendirici\Açı derecelendirici\obj\Debug\Açı derecelendirici.pdb

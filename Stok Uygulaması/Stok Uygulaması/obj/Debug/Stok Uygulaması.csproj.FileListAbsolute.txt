@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\bin\Debug\Stok Uygulaması.exe.config
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\bin\Debug\Stok Uygulaması.exe
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\bin\Debug\Stok Uygulaması.pdb
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok_Uygulaması.Form1.resources
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok_Uygulaması.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.exe
+C:\Users\Eldems\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\bin\Debug\Stok Uygulaması.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\bin\Debug\Stok Uygulaması.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\bin\Debug\Stok Uygulaması.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok_Uygulaması.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok_Uygulaması.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Stok Uygulaması\Stok Uygulaması\obj\Debug\Stok Uygulaması.pdb

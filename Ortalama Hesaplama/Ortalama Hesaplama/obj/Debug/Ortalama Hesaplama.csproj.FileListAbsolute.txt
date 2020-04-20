@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe.config
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.pdb
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama_Hesaplama.Form1.resources
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama_Hesaplama.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.exe
+C:\Users\Eldems\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama_Hesaplama.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama_Hesaplama.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.pdb

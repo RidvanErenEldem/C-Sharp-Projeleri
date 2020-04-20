@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\bin\Debug\Picture boxa yazı aktarma.exe.config
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\bin\Debug\Picture boxa yazı aktarma.exe
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\bin\Debug\Picture boxa yazı aktarma.pdb
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture_boxa_yazı_aktarma.Form1.resources
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture_boxa_yazı_aktarma.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.exe
+C:\Users\Eldems\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\bin\Debug\Picture boxa yazı aktarma.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\bin\Debug\Picture boxa yazı aktarma.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\bin\Debug\Picture boxa yazı aktarma.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture_boxa_yazı_aktarma.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture_boxa_yazı_aktarma.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Picture boxa yazı aktarma\Picture boxa yazı aktarma\obj\Debug\Picture boxa yazı aktarma.pdb

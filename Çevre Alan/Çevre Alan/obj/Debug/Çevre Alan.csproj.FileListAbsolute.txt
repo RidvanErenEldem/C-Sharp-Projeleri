@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\bin\Debug\Çevre Alan.exe.config
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\bin\Debug\Çevre Alan.exe
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\bin\Debug\Çevre Alan.pdb
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre_Alan.Form1.resources
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre_Alan.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.exe
+C:\Users\Eldems\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\bin\Debug\Çevre Alan.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\bin\Debug\Çevre Alan.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\bin\Debug\Çevre Alan.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre_Alan.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre_Alan.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Çevre Alan\Çevre Alan\obj\Debug\Çevre Alan.pdb

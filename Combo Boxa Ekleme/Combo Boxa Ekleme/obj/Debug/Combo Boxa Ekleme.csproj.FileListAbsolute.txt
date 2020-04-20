@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\bin\Debug\Combo Boxa Ekleme.exe.config
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\bin\Debug\Combo Boxa Ekleme.exe
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\bin\Debug\Combo Boxa Ekleme.pdb
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo_Boxa_Ekleme.Form1.resources
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo_Boxa_Ekleme.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.exe
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.pdb
+C:\Users\Eldems\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\bin\Debug\Combo Boxa Ekleme.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\bin\Debug\Combo Boxa Ekleme.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\bin\Debug\Combo Boxa Ekleme.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo_Boxa_Ekleme.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo_Boxa_Ekleme.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Combo Boxa Ekleme\Combo Boxa Ekleme\obj\Debug\Combo Boxa Ekleme.pdb

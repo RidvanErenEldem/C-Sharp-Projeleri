@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\bin\Debug\Pizza Siparişi.exe.config
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\bin\Debug\Pizza Siparişi.exe
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\bin\Debug\Pizza Siparişi.pdb
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza_Siparişi.Form1.resources
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza_Siparişi.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.exe
+C:\Users\Eldems\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\bin\Debug\Pizza Siparişi.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\bin\Debug\Pizza Siparişi.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\bin\Debug\Pizza Siparişi.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza_Siparişi.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza_Siparişi.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Pizza Siparişi\Pizza Siparişi\obj\Debug\Pizza Siparişi.pdb

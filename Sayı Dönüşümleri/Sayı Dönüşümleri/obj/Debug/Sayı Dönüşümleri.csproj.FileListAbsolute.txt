@@ -1,0 +1,10 @@
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\bin\Debug\Sayı Dönüşümleri.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\bin\Debug\Sayı Dönüşümleri.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\bin\Debug\Sayı Dönüşümleri.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\obj\Debug\Sayı Dönüşümleri.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\obj\Debug\Sayı_Dönüşümleri.main.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\obj\Debug\Sayı_Dönüşümleri.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\obj\Debug\Sayı Dönüşümleri.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\obj\Debug\Sayı Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\obj\Debug\Sayı Dönüşümleri.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\2020 Kodlama\Visual Studio C#\Sayı Dönüşümleri Orjinal\Sayı Dönüşümleri\obj\Debug\Sayı Dönüşümleri.pdb

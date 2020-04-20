@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\bin\Debug\kullanıcı giriş.exe.config
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\bin\Debug\kullanıcı giriş.exe
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\bin\Debug\kullanıcı giriş.pdb
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı_giriş.Form1.resources
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı_giriş.Properties.Resources.resources
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.exe
+C:\Users\Eldems\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\bin\Debug\kullanıcı giriş.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\bin\Debug\kullanıcı giriş.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\bin\Debug\kullanıcı giriş.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı_giriş.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı_giriş.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\kullanıcı giriş\kullanıcı giriş\obj\Debug\kullanıcı giriş.pdb

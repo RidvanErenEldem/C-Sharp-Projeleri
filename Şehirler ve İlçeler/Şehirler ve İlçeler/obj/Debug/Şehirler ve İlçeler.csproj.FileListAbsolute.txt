@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\bin\Debug\Şehirler ve İlçeler.exe.config
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\bin\Debug\Şehirler ve İlçeler.exe
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\bin\Debug\Şehirler ve İlçeler.pdb
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler_ve_İlçeler.Form1.resources
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler_ve_İlçeler.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.exe
+C:\Users\Eldems\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\bin\Debug\Şehirler ve İlçeler.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\bin\Debug\Şehirler ve İlçeler.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\bin\Debug\Şehirler ve İlçeler.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler_ve_İlçeler.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler_ve_İlçeler.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Şehirler ve İlçeler\Şehirler ve İlçeler\obj\Debug\Şehirler ve İlçeler.pdb

@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\bin\Debug\adı soy baba adı.exe.config
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\bin\Debug\adı soy baba adı.exe
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\bin\Debug\adı soy baba adı.pdb
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı_soy_baba_adı.Form1.resources
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı_soy_baba_adı.Properties.Resources.resources
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.exe
+C:\Users\Eldems\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\bin\Debug\adı soy baba adı.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\bin\Debug\adı soy baba adı.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\bin\Debug\adı soy baba adı.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı_soy_baba_adı.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı_soy_baba_adı.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\adı soy baba adı\adı soy baba adı\obj\Debug\adı soy baba adı.pdb

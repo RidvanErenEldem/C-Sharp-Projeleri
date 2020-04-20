@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı_Tahmin_Oyunu.Form1.resources
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı_Tahmin_Oyunu.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe.config
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.pdb
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\Eldems\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı_Tahmin_Oyunu.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı_Tahmin_Oyunu.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.pdb

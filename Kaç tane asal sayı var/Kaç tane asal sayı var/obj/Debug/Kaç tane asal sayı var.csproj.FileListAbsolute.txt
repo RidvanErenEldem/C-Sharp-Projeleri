@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\bin\Debug\Kaç tane asal sayı var.exe.config
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\bin\Debug\Kaç tane asal sayı var.exe
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\bin\Debug\Kaç tane asal sayı var.pdb
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.csprojAssemblyReference.cache
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç_tane_asal_sayı_var.Form1.resources
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç_tane_asal_sayı_var.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.exe
+C:\Users\Eldems\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\bin\Debug\Kaç tane asal sayı var.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\bin\Debug\Kaç tane asal sayı var.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\bin\Debug\Kaç tane asal sayı var.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç_tane_asal_sayı_var.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç_tane_asal_sayı_var.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Kaç tane asal sayı var\Kaç tane asal sayı var\obj\Debug\Kaç tane asal sayı var.pdb

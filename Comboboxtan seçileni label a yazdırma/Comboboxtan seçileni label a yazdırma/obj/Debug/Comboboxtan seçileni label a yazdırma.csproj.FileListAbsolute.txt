@@ -1,0 +1,20 @@
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\bin\Debug\Comboboxtan seçileni label a yazdırma.exe.config
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\bin\Debug\Comboboxtan seçileni label a yazdırma.exe
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\bin\Debug\Comboboxtan seçileni label a yazdırma.pdb
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan_seçileni_label_a_yazdırma.Form1.resources
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan_seçileni_label_a_yazdırma.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.exe
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.pdb
+C:\Users\Eldems\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\bin\Debug\Comboboxtan seçileni label a yazdırma.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\bin\Debug\Comboboxtan seçileni label a yazdırma.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\bin\Debug\Comboboxtan seçileni label a yazdırma.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan_seçileni_label_a_yazdırma.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan_seçileni_label_a_yazdırma.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Comboboxtan seçileni label a yazdırma\Comboboxtan seçileni label a yazdırma\obj\Debug\Comboboxtan seçileni label a yazdırma.pdb

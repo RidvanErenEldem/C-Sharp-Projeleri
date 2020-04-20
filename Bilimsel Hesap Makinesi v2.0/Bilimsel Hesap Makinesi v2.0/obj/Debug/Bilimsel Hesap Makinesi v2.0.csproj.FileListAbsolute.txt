@@ -1,0 +1,10 @@
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\bin\Debug\Bilimsel Hesap Makinesi v2.0.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\bin\Debug\Bilimsel Hesap Makinesi v2.0.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\bin\Debug\Bilimsel Hesap Makinesi v2.0.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\obj\Debug\Bilimsel Hesap Makinesi v2.0.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\obj\Debug\Bilimsel_Hesap_Makinesi_v2._0.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\obj\Debug\Bilimsel_Hesap_Makinesi_v2._0.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\obj\Debug\Bilimsel Hesap Makinesi v2.0.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\obj\Debug\Bilimsel Hesap Makinesi v2.0.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\obj\Debug\Bilimsel Hesap Makinesi v2.0.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Bilimsel Hesap Makinesi v2.0\Bilimsel Hesap Makinesi v2.0\obj\Debug\Bilimsel Hesap Makinesi v2.0.pdb

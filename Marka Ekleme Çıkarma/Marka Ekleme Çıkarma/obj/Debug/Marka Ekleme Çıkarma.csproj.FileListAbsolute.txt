@@ -1,0 +1,19 @@
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\bin\Debug\Marka Ekleme Çıkarma.exe.config
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\bin\Debug\Marka Ekleme Çıkarma.exe
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\bin\Debug\Marka Ekleme Çıkarma.pdb
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka_Ekleme_Çıkarma.Form1.resources
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka_Ekleme_Çıkarma.Properties.Resources.resources
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.csproj.GenerateResource.cache
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.csproj.CoreCompileInputs.cache
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.exe
+C:\Users\Eldems\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\bin\Debug\Marka Ekleme Çıkarma.exe.config
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\bin\Debug\Marka Ekleme Çıkarma.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\bin\Debug\Marka Ekleme Çıkarma.pdb
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka_Ekleme_Çıkarma.Form1.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka_Ekleme_Çıkarma.Properties.Resources.resources
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.exe
+C:\Users\ridva\Desktop\Kodlama ve Ders\Visual Stdio Projeler\source\repos\Marka Ekleme Çıkarma\Marka Ekleme Çıkarma\obj\Debug\Marka Ekleme Çıkarma.pdb
