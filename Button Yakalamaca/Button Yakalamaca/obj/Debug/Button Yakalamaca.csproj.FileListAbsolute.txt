@@ -1,0 +1,10 @@
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\bin\Debug\Button Yakalamaca.exe.config
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\bin\Debug\Button Yakalamaca.exe
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\bin\Debug\Button Yakalamaca.pdb
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\obj\Debug\Button_Yakalamaca.Form1.resources
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\obj\Debug\Button_Yakalamaca.Properties.Resources.resources
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\obj\Debug\Button Yakalamaca.csproj.GenerateResource.cache
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\obj\Debug\Button Yakalamaca.csproj.CoreCompileInputs.cache
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\obj\Debug\Button Yakalamaca.exe
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\obj\Debug\Button Yakalamaca.pdb
+C:\Users\ridva\source\repos\Button Yakalamaca\Button Yakalamaca\obj\Debug\Button Yakalamaca.csprojAssemblyReference.cache
